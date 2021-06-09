@@ -1,0 +1,40 @@
+2020/10/22 12:11:05 error: open /path/to/conig.toml: no such file or directory
+can't open configuration file
+main.readConfig
+	/Users/rlongobardi/Development/GoWorkouts/packageerrors.go:20
+main.main
+	/Users/rlongobardi/Development/GoWorkouts/packageerrors.go:41
+runtime.main
+	/usr/local/go/src/runtime/proc.go:204
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1374
+2020/10/22 12:11:17 error: open /path/to/config.toml: no such file or directory
+can't open configuration file
+main.readConfig
+	/Users/rlongobardi/Development/GoWorkouts/packageerrors.go:20
+main.main
+	/Users/rlongobardi/Development/GoWorkouts/packageerrors.go:41
+runtime.main
+	/usr/local/go/src/runtime/proc.go:204
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1374
+2020/10/22 12:44:21 error: open /path/to/config.toml: no such file or directory
+Can't open configuration file
+main.readConfig
+	/Users/rlongobardi/Development/GoWorkouts/packageerrors.go:18
+main.main
+	/Users/rlongobardi/Development/GoWorkouts/packageerrors.go:37
+runtime.main
+	/usr/local/go/src/runtime/proc.go:204
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1374
+2020/10/22 13:27:43 error: open /path/to/conig.toml: no such file or directory
+can't open configuration file
+main.readConfig
+	/Users/rlongobardi/Development/GoWorkouts/packageerrors.go:19
+main.main
+	/Users/rlongobardi/Development/GoWorkouts/packageerrors.go:40
+runtime.main
+	/usr/local/go/src/runtime/proc.go:204
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1374
