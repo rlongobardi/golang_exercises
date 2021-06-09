@@ -1,0 +1,6 @@
+[Credentials]
+username = "root"
+password = "admin"
+[ServerDetails]
+url = "http://localhost"
+port = 8080
